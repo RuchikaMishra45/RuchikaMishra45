@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Automated Fabric Defect Detection**
 
-- 🌱 I’m currently learning **JavaScript, .NET, C#**
+- 🌱 I’m currently learning **Core Java, Spring Boot, MVC**
 
 - 💬 Ask me about **Python, C/C++, HTML/CSS, SQL**
 
