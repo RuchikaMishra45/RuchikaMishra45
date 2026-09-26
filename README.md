@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Core Java, Spring Boot, MVC**
 
-- 💬 Ask me about **Python, C/C++, HTML/CSS, SQL**
+- 💬 Ask me about **Python, C/C++, HTML/CSS, SQL,JavaScript**
 
 - 📫 How to reach me **ruchikamishra1411@gmail.com**
 
